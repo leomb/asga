@@ -1,0 +1,1 @@
+"use strict";$(window).on("load",function(){console.log("Loaded!")});var nav=document.querySelector(".nav nav");document.getElementById("menubutton").addEventListener("click",function(n){console.log("HIT!"),nav.classList.toggle("shownav")});
