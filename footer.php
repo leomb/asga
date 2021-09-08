@@ -19,7 +19,7 @@
 									?>
       </div>
       <div class="col-12-sm col-lg-3">
-        <h2>ADDRESS</h2>
+        <h2>Address</h2>
         <address>
           Kendall Executive Airport<br>
           Hanger 249<br>
@@ -27,7 +27,7 @@
         </address>
       </div>
       <div class="col-12-sm col-lg-3">
-        <h2>CONTACT US</h2>
+        <h2>Contact Us</h2>
         <p class="contact">T: 305.253.0803 / 786.401.5556<br>E: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#97;&#115;&#103;&#97;&#101;&#114;&#111;&#115;&#112;&#97;&#99;&#101;&#46;&#99;&#111;&#109;">&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#97;&#115;&#103;&#97;&#101;&#114;&#111;&#115;&#112;&#97;&#99;&#101;&#46;&#99;&#111;&#109;</a></p>
         <div class="social">
           <a href="https://instagram.com"><span class="iconify" data-icon="entypo-social:instagram-with-circle"></span></a>
